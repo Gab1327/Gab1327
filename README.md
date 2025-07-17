@@ -22,8 +22,9 @@ Estou aprofundando em:
 
 ## 📫 Entre em contato
 - Email: gabrielhenriqueborges4@gmail.com
-- Instagram:(https://www.instagram.com/g.d_startweb/?__pwa=1#)
-- Portfólio:(https://www.instagram.com/g.d_startweb/?__pwa=1#)
+- Instagram da empresa: [@g.d_startweb](https://www.instagram.com/g.d_startweb?igsh=bHdkNXB1Zmh5dWJp)
+- Portfólio com projetos reais: [Clique aqui](https://www.instagram.com/g.d_startweb?igsh=bHdkNXB1Zmh5dWJp)
+
 
 ---
 
