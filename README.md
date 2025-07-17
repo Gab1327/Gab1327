@@ -28,6 +28,6 @@ Estou aprofundando em:
 
 ---
 
-💻 *"Transformando ideias em soluções digitais reais."*
+💻 Transformando ideias em soluções digitais reais.
 
 
