@@ -5,7 +5,7 @@ Sou apaixonado por desenvolvimento web e tecnologia. Estou sempre buscando apren
 ## 🚀 Tecnologias que estou aprendendo e usando
 - HTML, CSS, JavaScript
 - React.js
-- Node.js e PHP
+- Node.js, PHP e Python
 - Firebase e MySQL
 - Git e GitHub
 
