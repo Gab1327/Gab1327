@@ -10,9 +10,6 @@ Sou apaixonado por desenvolvimento web e tecnologia. Estou sempre buscando apren
 - Git e GitHub
 
 ## 🛠️ Projetos em destaque
-- [🔗 Site de Barbearia](https://seulink.com) — Site completo com agendamento
-- [🔗 Calculadora de Gastos](https://seulink.com) — App para controle financeiro
-- [🔗 Sistema de Reservas](https://seulink.com) — Sistema para restaurantes
 
 ## 📈 Atualmente estudando
 Estou aprofundando em:
