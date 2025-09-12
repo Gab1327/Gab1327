@@ -6,7 +6,7 @@ Sou apaixonado por desenvolvimento web e tecnologia. Estou sempre buscando apren
 - HTML, CSS, JavaScript
 - React.js
 - Node.js, PHP e Python
-- Firebase e MySQL
+- Firebase e SQL Server
 - Git e GitHub
 
 ## 🛠️ Projetos em destaque
