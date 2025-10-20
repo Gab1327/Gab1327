@@ -3,8 +3,8 @@
 Sou apaixonado por desenvolvimentos de software e tecnologia. Estou sempre buscando aprender mais, criar projetos reais e ajudar pessoas com soluções digitais.
 
 ## 🚀 Tecnologias que estou aprendendo e usando
-- HTML, CSS, JavaScript
-- PHP e Python
+- React, HTML, CSS e JavaScript
+- PHP , Python e Java
 - Firebase e SQL Server
 - Git e GitHub
 
