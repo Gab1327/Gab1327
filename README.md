@@ -10,7 +10,7 @@ Sou apaixonado por desenvolvimentos de software e tecnologia. Estou sempre busca
 
 ## 📫 Entre em contato
 - Email: gabrielhenriqueborges4@gmail.com
-- Instagram da empresa: [@g.d_startweb](https://www.instagram.com/g.d_startweb?igsh=bHdkNXB1Zmh5dWJp)
+- Instagram: [@g.d_startweb](https://www.instagram.com/g.d_startweb?igsh=bHdkNXB1Zmh5dWJp)
 - Portfólio com projetos reais: https://gdstartweb.netlify.app/
 💻 Transformando ideias em soluções digitais reais.
 
