@@ -4,15 +4,14 @@ Sou apaixonado por desenvolvimentos de software e tecnologia. Estou sempre busca
 
 ## 🚀 Tecnologias que estou aprendendo e usando
 - React, HTML, CSS e JavaScript
-- PHP , Python e Java
+- PHP , Python, Django e Java
 - Firebase e SQL Server
 - Git e GitHub
 
 ## 📫 Entre em contato
 - Email: gabrielhenriqueborges4@gmail.com
 - Instagram da empresa: [@g.d_startweb](https://www.instagram.com/g.d_startweb?igsh=bHdkNXB1Zmh5dWJp)
-- Portfólio com projetos reais: [Clique aqui](https://www.instagram.com/g.d_startweb?igsh=bHdkNXB1Zmh5dWJp)
-
+- Portfólio com projetos reais: https://gdstartweb.netlify.app/
 💻 Transformando ideias em soluções digitais reais.
 
 
