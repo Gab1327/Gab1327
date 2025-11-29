@@ -4,9 +4,9 @@ Sou apaixonado por desenvolvimentos de software e tecnologia. Estou sempre busca
 
 ## 🚀 Tecnologias que estou aprendendo e usando
 - React, HTML, CSS e JavaScript
-- PHP , Python, Django e Java
-- Firebase e SQL Server
-- Git e GitHub
+- PHP, Python, Django , SQL e Java
+- Firebase , PostreSQL e SQL Server
+- Git , Postman e  GitHub
 
 ## 📫 Entre em contato
 - Email: gabrielhenriqueborges4@gmail.com
